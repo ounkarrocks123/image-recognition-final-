@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(13, 219, 106)
+        }
+
+.name_of_members{
+    color:blueviolet;
+    font-size: 20px;
+}
+
+.heading{
+    font-size:30px;
+    color:whitesmoke;
+}
+
+#camera, #snapshot{
+    border:2px dashed white;
+    width: 350px;
+    height:300px;
+}
+
+#result_of_objects, #result_of_accuracy{
+    color: yellow;
+}
+
+h3{
+    width: 80%;
+    font-size: 22px;
+}
+
+#result_of_objects, #result_of_accuracy{
+    color: white;
+}
